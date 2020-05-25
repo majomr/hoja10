@@ -1,11 +1,13 @@
+/*
+Maria Jose Morales 19145
+Hoja de trabajo 10
+grafos  
+*/
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 
-/**
- *
- * @author sebas
- */
 public class grafo {
     private HashMap<String,Integer> nodos;
     private Integer[][] matriz;
